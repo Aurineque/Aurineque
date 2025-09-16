@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Aurineque
+# 👨🏽‍💻 Aurineque
 
 **`Desenvolvedor FullStack`**
 
