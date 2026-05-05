@@ -2,7 +2,7 @@
 
 **`DevOps`** **`Platform Engineer`** **`SRE`**
 
-Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
+Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
 
 ---
 
