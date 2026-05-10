@@ -5,7 +5,7 @@
 
 Me chamo Aurineque e sou natural da terra dos altos coqueiros, Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
 
-<p style="display: flex; gap: 30px; align-items: center;">
+<p style="display: flex; flex-direction: column; gap: 10px; align-items: left;">
     <span>conecte-se comigo</span>
     <a href="https://www.linkedin.com/in/aurineque/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
