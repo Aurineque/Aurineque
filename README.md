@@ -1,15 +1,17 @@
-# 👨🏽‍💻 Auri
+![](https://capsule-render.vercel.app/api?type=waving&height=140&color=FF8C00&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+<h1 align="center">Olá, sou Auri ✌️</h1>
 
 **`DevOps`** **`Platform Engineer`** **`SRE`**
 
 Me chamo Aurineque sou natural da terra dos altos coqueiros, Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
 
-<p style="display: flex; gap: 10px; align-items: center;">
+<p style="display: flex; gap: 30px; align-items: center;">
     <span>conecte-se comigo</span>
     <a href="https://www.linkedin.com/in/aurineque/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
 </p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
