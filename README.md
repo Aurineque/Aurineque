@@ -1,9 +1,15 @@
-# 👨🏽‍💻 Aurineque
+# 👨🏽‍💻 Auri
 
 **`DevOps`** **`Platform Engineer`** **`SRE`**
 
-Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
+Me chamo Aurineque sou natural da terra dos altos coqueiros, Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
 
+<p style="display: flex; gap: 10px; align-items: center;">
+    <span>conecte-se comigo</span>
+    <a href="https://www.linkedin.com/in/aurineque/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+</p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -24,14 +30,7 @@ Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Dart" 
@@ -88,6 +87,30 @@ Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"     
 />
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"     
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"     
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg"     
+/>
 
 <br/>
 <br/>
@@ -95,19 +118,5 @@ Me chamo Aurineque da Costa, tenho 26 anos e sou natural de Recife-PE. Concluí 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Aurineque&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurineque&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
-
+  <img src="https://streak-stats.demolab.com?user=Aurineque&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
