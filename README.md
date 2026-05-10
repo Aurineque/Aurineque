@@ -3,7 +3,7 @@
 
 **`DevOps`** **`Platform Engineer`** **`SRE`**
 
-Me chamo Aurineque sou natural da terra dos altos coqueiros, Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
+Me chamo Aurineque e sou natural da terra dos altos coqueiros, Recife-PE. Concluí o ensino superior em sistemas de informação pela Universidade Federal Rural de Pernambuco e atualmente estou me especializando em DevOps no CESAR School. Sou apaixonado por tecnologia e estou sempre buscando novos conhecimentos nas mas diversas áreas.
 
 <p style="display: flex; gap: 30px; align-items: center;">
     <span>conecte-se comigo</span>
